@@ -1,2 +1,2 @@
-console.log('Hello');
-console.log('Ashley');
+console.log('foobarbaz here');
+console.log('even more stuff', {});
